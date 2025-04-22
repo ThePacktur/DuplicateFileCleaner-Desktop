@@ -1,0 +1,14 @@
+/DuplicateFileCleaner
+│   main.py                  # Punto de entrada principal
+│   requirements.txt         # Dependencias
+│
+├───ui
+│       main_window.py       # Lógica de la ventana principal
+│       main_window.ui       # Diseño de la interfaz (Qt Designer)
+│       resources.qrc        # Recursos (iconos)
+│
+├───core
+│       file_scanner.py      # Lógica para buscar duplicados
+│       file_operations.py   # Operaciones con archivos
+│
+└───icons                   # Iconos para la aplicación
