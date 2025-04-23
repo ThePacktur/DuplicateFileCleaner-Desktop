@@ -1,0 +1,4 @@
+PyQt5==5.15.7
+PyQt5-tools==5.15.4.3.2
+python-magic==0.4.27
+send2trash==1.8.0
