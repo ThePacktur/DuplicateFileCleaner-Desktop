@@ -70,6 +70,5 @@ python main.py
 - Exportación de reporte a CSV/JSON.
 - Tests unitarios para escaneo, hashing y eliminación.
 
-## Licencia
 
-Define aquí tu licencia (por ejemplo MIT).
+
